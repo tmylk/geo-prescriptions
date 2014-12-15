@@ -22,18 +22,12 @@ Here are some maps created by our team:
 Our code on [github](https://github.com/tmylk/geo-prescriptions/)
 
 
-######Hackathon experience
-
-It was my first hackathon so I didn’t know what to expect. The conditions were actually very comfortable.  Cool space - white and airy HUB Westminster with angular desk arrangements. We picked a real glass greenhouse to work in a 5 people team.  Granola breakfast, pret sandwiches and domino’s pizza made a good fare.  Twenty people stayed overnight, but majority went home.
-
-
 
 ######The dataset
 
 
-My first programming job was for pharmaceutical sales representatives in Russia: a DB and UI to record which doctor they visited, which drugs they talked about and whether it had an effect on sales.
 
-So I was naturally interested in the UK GP prescriptions [dataset](http://www.hscic.gov.uk/gpprescribingdata). 
+Based on the UK GP prescriptions [dataset](http://www.hscic.gov.uk/gpprescribingdata). 
 
 [![HSCIC](http://www.hscic.gov.uk/hscic/images/toplogo.gif)](http://www.hscic.gov.uk/gpprescribingdata)
 
@@ -41,11 +35,7 @@ The data is freely available to download. A  typical month CSV is 10m records an
 
 Records are of format GP Practice id, Drug id (British National Formulary code) and Processing date.
 
-Initial idea was to create a map of UK divided into regions of sales rep activity – this is Pfizer area, that one is Novartis. When everyone was milling around and splitting into teams I was lucky to run into Luis who already scraped the EMA drug list by manufacturer after reading “Bad Pharma” book, so of course we have teamed up!
-
-Unfortunately it turned out that the data only has the chemical information but not the manufacturer info – the BNF codes are cut to 9 digits and don’t include the manufacturer spec digits 15-16.
-
-New idea was to create maps of UK where people are prescribed medicines for specific conditions and correlate it with socioeconomic stats for the area.
+The idea was to create maps of UK where people are prescribed medicines for specific conditions and correlate it with socioeconomic stats for the area.
 
 ######What condition is the prescription for?
 
