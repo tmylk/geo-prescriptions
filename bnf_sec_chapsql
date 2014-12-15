@@ -1,0 +1,96 @@
+COPY bnf (chaptercode, sectioncode, chaptername, sectionname) FROM stdin;
+1	3	Gastro-intestinal system	Antisecretory drugs and mucosal protectants
+2	13	Cardiovascular system	Local sclerosants
+10	1	Musculoskeletal and joint diseases	Drugs used in rheumatic diseases and gout
+4	11	Central nervous system	Drugs for dementia
+13	7	Skin	Preparations for warts and calluses
+2	1	Cardiovascular system	Positive inotropic drugs
+14	5	Immunological products and vaccines	Immunoglobulins
+15	1	Anaesthesia	General anaesthesia
+2	11	Cardiovascular system	Antifibrinolytic drugs and haemostatics
+2	7	Cardiovascular system	Sympathomimetics
+4	10	Central nervous system	Drugs used in substance dependence
+11	5	Eye	Mydriatics and cycloplegics
+2	2	Cardiovascular system	Diuretics
+13	9	Skin	Shampoos and other preparations for scalp and hair conditions
+4	6	Central nervous system	Drugs used in nausea and vertigo
+12	2	Ear, nose, and oropharynx	Drugs acting on the nose
+10	2	Musculoskeletal and joint diseases	Drugs used in neuromuscular disorders
+1	6	Gastro-intestinal system	Laxatives
+3	7	Respiratory system	Mucolytics
+5	5	Infections	Anthelmintics
+11	6	Eye	Treatment of glaucoma
+14	4	Immunological products and vaccines	Vaccines and antisera
+7	4	Obstetrics, gynaecology, and urinary-tract disorders	Drugs for genito-urinary disorders
+8	2	Malignant disease and immunosuppression	Drugs affecting the immune response
+6	6	Endocrine system	Drugs affecting bone metabolism
+4	1	Central nervous system	Hypnotics and anxiolytics
+9	2	Nutrition and blood	Fluids and electrolytes
+13	3	Skin	Topical local anaesthetics and antipruritics
+7	1	Obstetrics, gynaecology, and urinary-tract disorders	Drugs used in obstetrics
+4	4	Central nervous system	CNS\nstimulants and drugs used for attention deficit hyperactivity disorder
+4	7	Central nervous system	Analgesics
+4	2	Central nervous system	Drugs used in psychoses and related disorders
+12	1	Ear, nose, and oropharynx	Drugs acting on the ear
+8	3	Malignant disease and immunosuppression	Sex hormones and hormone antagonists in malignant disease
+3	5	Respiratory system	Respiratory stimulants and pulmonary surfactants
+6	2	Endocrine system	Thyroid and antithyroid drugs
+4	3	Central nervous system	Antidepressant drugs
+5	2	Infections	Antifungal drugs
+1	9	Gastro-intestinal system	Drugs affecting intestinal secretions
+1	2	Gastro-intestinal system	Antispasmodics and other drugs altering gut motility
+13	6	Skin	Acne and rosacea
+13	12	Skin	Antiperspirants
+6	7	Endocrine system	Other endocrine drugs
+12	3	Ear, nose, and oropharynx	Drugs acting on the oropharynx
+2	9	Cardiovascular system	Antiplatelet drugs
+13	5	Skin	Preparations for eczema and psoriasis
+11	4	Eye	Corticosteroids and other anti-inflammatory preparations
+5	1	Infections	Antibacterial drugs
+2	6	Cardiovascular system	Nitrates, calcium-channel blockers, and other antianginal drugs
+3	1	Respiratory system	Bronchodilators
+4	8	Central nervous system	Antiepileptic drugs
+6	1	Endocrine system	Drugs used in diabetes
+1	4	Gastro-intestinal system	Acute diarrhoea
+13	8	Skin	Sunscreens and camouflagers
+13	10	Skin	Anti-infective skin preparations
+8	1	Malignant disease and immunosuppression	Cytotoxic drugs
+2	4	Cardiovascular system	Beta-adrenoceptor blocking drugs
+11	3	Eye	Anti-infective eye preparations
+5	3	Infections	Antiviral drugs
+4	9	Central nervous system	Drugs used in parkinsonism and related disorders
+9	5	Nutrition and blood	Minerals
+5	4	Infections	Antiprotozoal drugs
+3	10	Respiratory system	Systemic nasal decongestants
+15	2	Anaesthesia	Local anaesthesia
+7	3	Obstetrics, gynaecology, and urinary-tract disorders	Contraceptives
+1	7	Gastro-intestinal system	Local preparations for anal and rectal disorders
+2	3	Cardiovascular system	Anti-arrhythmic drugs
+9	4	Nutrition and blood	Oral nutrition
+9	6	Nutrition and blood	Vitamins
+3	3	Respiratory system	Cromoglicate\nand related therapy, leukotriene receptor antagonists, and phosphodiesterase\ntype-4 inhibitors
+13	2	Skin	Emollient and barrier preparations
+6	3	Endocrine system	Corticosteroids
+6	4	Endocrine system	Sex hormones
+3	9	Respiratory system	Cough preparations
+11	8	Eye	Miscellaneous ophthalmic preparations
+10	3	Musculoskeletal and joint diseases	Drugs for the treatment of soft-tissue disorders and topical pain\nrelief
+1	5	Gastro-intestinal system	Chronic bowel disorders
+7	2	Obstetrics, gynaecology, and urinary-tract disorders	Treatment of vaginal and vulval conditions
+13	4	Skin	Topical corticosteroids
+1	1	Gastro-intestinal system	Dyspepsia and gastro-oesophageal reflux disease
+9	8	Nutrition and blood	Metabolic disorders
+3	4	Respiratory system	Antihistamines, hyposensitisation, and allergic emergencies
+6	5	Endocrine system	Hypothalamic and pituitary hormones and anti-oestrogens
+9	1	Nutrition and blood	Anaemias and some other blood disorders
+3	2	Respiratory system	Corticosteroids
+2	8	Cardiovascular system	Anticoagulants and protamine
+13	11	Skin	Skin cleansers, antiseptics, and desloughing agents
+9	3	Nutrition and blood	Intravenous nutrition
+2	10	Cardiovascular system	Stable angina, acute coronary syndromes, and fibrinolysis
+2	12	Cardiovascular system	Lipid-regulating drugs
+4	5	Central nervous system	Drugs used in the treatment of obesity
+2	5	Cardiovascular system	Hypertension and heart failure
+\.
+
+
