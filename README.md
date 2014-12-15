@@ -1,6 +1,8 @@
 geo-prescriptions
 =================
 
+
+
 Geomapping GP prescriptions during Open Healthcare Data Hackathon 2014 by Data Science London
 
 More details at
@@ -99,3 +101,8 @@ We only analysed one month August 2013. We have a lot of missing postcodes on th
 ######Issues
 
 One of the goals of the hackathon was to play with Azure ML –there were plenty of Azure ML engineers helping out at the event. We tried dumping a 1GB 10m rows CSV into an Azure ML Reader. Two hours was a bit too slow so the exploration was over then. Maybe if we had data and processing in the same Azure datacenter it could have worked ok.  Anyway we switched to AWS - the dataset was already in S3 thanks to the organisers and Dan has spun up an a Postgres instance in a flash with extra large storage.
+
+##Credits
+Dan Roythorne, Lev Konstantinovskiy,
+Luis Pereira, Phil Lohrmann, Sajid Mushtaq
+
